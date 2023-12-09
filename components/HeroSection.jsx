@@ -3,6 +3,7 @@ import TypeWritter from "typewriter-effect";
 import { motion } from "framer-motion";
 import Link from "next/link";
 import dynamic from "next/dynamic";
+import Image from "next/image";
 
 const HeroSection = () => {
     return(
