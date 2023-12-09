@@ -67,8 +67,8 @@ const HeroSection = () => {
                             alt="Profile picture"
                             className="transform rounded-full flex relative -translate-x-1/2 top-1/2 left-1/2"
                             width={450}
-                            height={400}>
-                        </img>
+                            height={400}
+                        />
                     </div>
                     </motion.div>
                 </div>
