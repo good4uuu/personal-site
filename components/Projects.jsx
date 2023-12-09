@@ -7,7 +7,7 @@ const projectData = [
         title: "Project 1",
         description: "This is a project.",
         image: "/projects/project.png",
-        gitUrl: "https://github.com/APU-Blockchain-Cryptocurrency-Club/LinkedOutAndAbout"
+        gitUrl: "https://www.linkedin.com/in/an-ning-tan-779795270/"
 
     },
     {
@@ -15,28 +15,28 @@ const projectData = [
         title: "Project 2",
         description: "This is a project.",
         image: "/projects/project.png",
-        gitUrl: "https://github.com/0xYudhishthra/ClubDAO"
+        gitUrl: "https://www.linkedin.com/in/an-ning-tan-779795270/"
     },
     {
         id: 3,
         title: "Project 3",
         description: "This is a project.",
         image: "/projects/project.png",
-        gitUrl: "https://github.com/0xYudhishthra/ClubDAO"
+        gitUrl: "https://www.linkedin.com/in/an-ning-tan-779795270/"
     },
     {
         id: 4,
         title: "Project 4",
         description: "This is a project.",
         image: "/projects/project.png",
-        gitUrl: "https://github.com/0xYudhishthra/ClubDAO"
+        gitUrl: "https://www.linkedin.com/in/an-ning-tan-779795270/"
     },
     {
         id: 5,
         title: "Project 5",
         description: "This is a project.",
         image: "/projects/project.png",
-        gitUrl: "https://github.com/0xYudhishthra/ClubDAO"
+        gitUrl: "https://www.linkedin.com/in/an-ning-tan-779795270/"
     },
 ];
 
